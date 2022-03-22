@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning devops and have a bright feature </h1>
-   <h1> welcome to devops world </h1>
+   <h1> Welcome to devops world </h1>
   
 </form>
